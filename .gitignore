@@ -4,3 +4,5 @@ __pycache__/
 .env
 documents/
 .env
+chroma_db/
+.claude
